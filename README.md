@@ -1,16 +1,19 @@
-### Hi there 👋
+# Steffen Kotschi 🐻
 
-<!--
-**skotschi/skotschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Steffen – I am a UX designer at IBM iX in Germany. I also study *Leadership in Digital Innovation* at Berlin University of the Arts.
 
-Here are some ideas to get you started:
+## Things I enjoy working with 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sketch
+- React
+- Gatsby
+
+## Things I want to learn 👨‍🎓
+
+- SwiftUI
+- DesignOps
+
+## Get in touch
+- Twitter: https://twitter.com/skotschi
+- Portfolio: https://www.skotschi.de
+- LinkedIn: www.linkedin.com/in/steffen-kotschi
