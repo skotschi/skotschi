@@ -5,15 +5,15 @@ Hello, my name is Steffen – I am a UX designer at IBM iX in Germany. I also st
 ## Things I enjoy working with 👨‍💻
 
 - Sketch
-- React
-- Gatsby
+- Figma
 
 ## Things I want to learn 👨‍🎓
 
 - SwiftUI
+- React
 - DesignOps
 
 ## Get in touch
 - Twitter: https://twitter.com/skotschi
 - Portfolio: https://www.skotschi.de
-- LinkedIn: www.linkedin.com/in/steffen-kotschi
+
