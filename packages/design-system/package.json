@@ -1,8 +1,10 @@
 {
   "name": "design-system",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
+  "main": "dist/index.js",
+    "scripts": {
+    "build": "tsc", 
+        "dev": "tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"

@@ -1,6 +1,7 @@
 {
   "name": "skotschi",
   "private": true,
+  "packageManager": "npm@18.20.6",
   "workspaces": [
     "apps/*",
     "packages/*"
