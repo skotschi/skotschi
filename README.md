@@ -1,19 +1,21 @@
 # Steffen Kotschi 🐻
 
-Hello, my name is Steffen – I am a UX designer at IBM iX in Germany. I also study *Leadership in Digital Innovation* at Berlin University of the Arts.
+Hello, my name is Steffen – I am a UX designer at IBM iX in Germany. I enjoy web design, design systems and love reading about all sorts of things.
+
+## About Me 🎨
+- 🎯 Currently focusing on DesignOps and design system optimization
+- 🏢 UX Designer at IBM iX, crafting enterprise-level experiences
+- 💡 Passionate about bridging the gap between design and development
 
 ## Things I enjoy working with 👨‍💻
-
-- Sketch
-- Figma
+- 🎨 Figma - Creating seamless design experiences
+- 📐 Design Systems - Building scalable and consistent solutions
+- 🔄 UX/UI Design - Crafting user-centered experiences
+- 🤝 Cross-functional collaboration
 
 ## Things I want to learn 👨‍🎓
-
-- SwiftUI
-- React
-- DesignOps
-
-## Get in touch
-- Twitter: https://twitter.com/skotschi
-- Portfolio: https://www.skotschi.de
+- 📱 SwiftUI - For iOS app development
+- ⚛️ React - Building interactive web applications
+- 🔄 DesignOps - Streamlining design workflows and processes
+- 🛠️ Design automation tools
 
